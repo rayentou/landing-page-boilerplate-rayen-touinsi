@@ -52,7 +52,7 @@ p{
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
-    transition: 0.5;
+    transition: 0.5s;
     display: inline-flex;
 }
 
